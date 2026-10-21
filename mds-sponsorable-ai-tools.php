@@ -3,7 +3,7 @@
  * Plugin Name: Million Dollar Script - Sponsorable AI Tools
  * Plugin URI: https://milliondollarscript.com/extensions/sponsorable-ai-tools
  * Description: Launch sponsor-supported calculators, planners, quizzes, generators, and guides with lead capture and moderation.
- * Version: 0.2.0
+ * Version: 0.2.1
  * Author: Million Dollar Script
  * Author URI: https://milliondollarscript.com
  * Text Domain: mds-sponsorable-ai-tools
