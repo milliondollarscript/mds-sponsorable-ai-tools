@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.2.2 - 2026-10-21
+- Corrected the version the plugin reports, so its listings, its assets, and its built-in documentation all name the installed build.
+
 All notable changes to Sponsorable AI Tools are documented here.
 
 ## 0.2.1 - 2026-10-21
