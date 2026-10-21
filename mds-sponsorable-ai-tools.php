@@ -36,7 +36,7 @@ if (!defined('ABSPATH')) {
 }
 
 if (!defined('MDS_SPONSORABLE_AI_TOOLS_VERSION')) {
-    define('MDS_SPONSORABLE_AI_TOOLS_VERSION', '0.2.0');
+    define('MDS_SPONSORABLE_AI_TOOLS_VERSION', '0.2.1');
 }
 
 if (!defined('MDS_SPONSORABLE_AI_TOOLS_FILE')) {
